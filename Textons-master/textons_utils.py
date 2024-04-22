@@ -66,4 +66,4 @@ class Textons(object):
                                         assignment_type= self.type_of_assignment)
         display_image = final_image.reconstruct()
         #print('final image array ...')
-        return display_image
+        return features_for_kmeans, display_image
