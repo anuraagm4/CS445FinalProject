@@ -4,6 +4,10 @@ V
 S
 S
 V
+V
+S
+S
+V
 S
 V
 V
@@ -12,14 +16,16 @@ V
 S
 V
 S
-A
-A
 V
-A
+V
+S
+S
+V
+S
+S
 S
 A
 S
-S
 A
 A
 A
@@ -33,4 +39,3 @@ A
 A
 A
 A
-S
