@@ -5,9 +5,6 @@ S
 S
 S
 S
-V
-S
-V
 S
 S
 S
@@ -20,11 +17,13 @@ S
 S
 S
 S
-V
 S
 S
 S
 V
+S
+S
+S
 S
 S
 S
