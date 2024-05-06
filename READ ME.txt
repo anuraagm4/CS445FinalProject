@@ -1,0 +1,8 @@
+To run:
+> Replace the image paths annotated with # REPLACE ME with your image. 
+> Run all cells sequentially in the Jupyter notebook
+
+File Organization:
+> We have training data and ground truth files in the pics folder.
+> Video1040163685.mp4 is a recording of the blender result in Blender.
+> theater1.blend is a Blender file with the resulting image.
